@@ -1,5 +1,5 @@
 # Pizza Ordering System
-This is an application that simulates a pizza ordering system. Its main use case is to allow the users (customers) to place orders through a visual medium developed using C# in visual studio 2010. 
+This is an application to simulate a pizza ordering system. Its main use case is to allow the users (customers) to place orders through a visual medium developed using C# in visual studio 2010. 
 
 This project shows ways to implement similar ordering system for any type of system and managing orders and details of customers for future references. 
 
