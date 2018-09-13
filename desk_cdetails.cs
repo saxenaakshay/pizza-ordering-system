@@ -23,7 +23,7 @@ namespace WindowsFormsApplication5
         
         public void connect1()
         {
-            string oradb = "Data Source=AKSHAY; User ID=system; Password=welcome;  ";
+            string oradb = "Data Source=AKSHAY; User ID=system; Password=;  ";
             conn = new OracleConnection(oradb);
             conn.Open();
         }
